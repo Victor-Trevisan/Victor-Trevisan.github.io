@@ -9,6 +9,10 @@
 
         }
 
+        #picture {
+            width: 200px;
+        }
+
         h3 {
             font-family: 'Poiret One', sans-serif;
             color: #E7D1B1;
